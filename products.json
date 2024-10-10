@@ -1,0 +1,62 @@
+[
+    {
+      "id": "1",
+      "name": "Chaise de bureau ergonomique",
+      "price": "$120",
+      "description": "Une chaise de bureau confortable avec support lombaire réglable."
+    },
+    {
+      "id": "2",
+      "name": "Clavier mécanique",
+      "price": "$80",
+      "description": "Clavier mécanique avec rétroéclairage RGB et touches programmables."
+    },
+    {
+      "id": "3",
+      "name": "Casque audio sans fil",
+      "price": "$150",
+      "description": "Casque sans fil avec réduction active du bruit et longue autonomie."
+    },
+    {
+      "id": "4",
+      "name": "Souris de gaming",
+      "price": "$45",
+      "description": "Souris de gaming avec capteur optique haute précision et boutons programmables."
+    },
+    {
+      "id": "5",
+      "name": "Moniteur 27 pouces",
+      "price": "$300",
+      "description": "Écran 27 pouces avec résolution 4K UHD et support ajustable."
+    },
+    {
+      "id": "6",
+      "name": "Station de recharge USB",
+      "price": "$25",
+      "description": "Station de recharge multiple avec 6 ports USB et charge rapide."
+    },
+    {
+      "id": "7",
+      "name": "Lampe de bureau LED",
+      "price": "$35",
+      "description": "Lampe de bureau avec luminosité ajustable et mode veilleuse."
+    },
+    {
+      "id": "8",
+      "name": "Ordinateur portable",
+      "price": "$800",
+      "description": "Ordinateur portable performant avec processeur Intel i7 et 16 Go de RAM."
+    },
+    {
+      "id": "9",
+      "name": "Support pour ordinateur portable",
+      "price": "$30",
+      "description": "Support réglable pour ordinateur portable avec gestion des câbles."
+    },
+    {
+      "id": "10",
+      "name": "Imprimante multifonction",
+      "price": "$120",
+      "description": "Imprimante couleur avec fonctions de numérisation et de copie."
+    }
+  ]
